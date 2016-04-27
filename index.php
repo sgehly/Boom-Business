@@ -1,10 +1,11 @@
-<h1>Hey Krish, here are a few page demos for the Boom Business app, I suggest openning them beforehand so you can just cycle through the tabs.</h1>
+<h1>Hey Krish, here are a few page demos for the Boom Business app, I suggest simply screenshotting them and putting them inside.</h1>
 
 <ul>
-	<li>Homepage: </li>
-	<li>Signup: </li>
-	<li>Login: </li>
-	<li>Pitches: </li>
-	<li>Create Pitch: </li>
-	<li>Resource Page: </li>
+	<li>Login/Signup: <a href="signup.php">Here</a></li>
+	<li>Pitches: <a href="pitches.php">Here</a></li>
+	<li>Create Pitch: <a href="pitchit.php">Here</a> </li>
+	<li>Resource Page: <a href="resources.php">Here</a></li>
+	<li>Stories/Blogs Page: <a href="stories.php">Here</a></li>
+	<li>Create story/blog post: <a href="writestory.php">Here</a></li>
+	<li>Example Pitch: <a href="arandompitch.php">Here</a></li>
 </ul>
