@@ -13,8 +13,8 @@
 		  		<a class="navbtn" href="./resources.php">Resources</a>
 		  		<a class="navbtn" href="./pitches.php">Pitches</a>
 		  		<a class="navbtn" href="./stories.php">Stories</a>
+		  		<a class="navbtn" href="./leaveinfo.php">Add Company</a>
 		  		<a class="btn btn-success" href="./pitchit.php">Write a Pitch</a>
-		  		<a class="btn btn-primary" style="margin-left:5px;" href="./connect.php">Connect with Investors</a>
 		    </div>
 		</nav>
 		<div class="bodyContent">

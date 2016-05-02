@@ -12,7 +12,7 @@ body{
 }
 .navbtn{
 	font-family: 'Roboto', sans-serif;
-	font-size:24px;
+	font-size:16px;
 	font-weight:300;
 	color:black !important;
 	width:150px;
@@ -21,7 +21,7 @@ body{
 	border-bottom:2px solid transparent;
 }
 .navbtn:hover{
-	border-bottom:2px solid black;
+	border-bottom:2px solid lightgray;
 	transition:.25s all;
 	cursor:pointer;
 }
@@ -31,6 +31,7 @@ body{
 	display:flex;
 	justify-content: flex-end;
 	margin-left:auto;
+	align-items:center;
 	padding-right: 20px;
 }
 .navbar{

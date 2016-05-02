@@ -8,4 +8,6 @@
 	<li>Stories/Blogs Page: <a href="stories.php">Here</a></li>
 	<li>Create story/blog post: <a href="writestory.php">Here</a></li>
 	<li>Example Pitch: <a href="arandompitch.php">Here</a></li>
+<br>
+	<li>NEW: Leave information: <a href="leaveinfo.php">Here</a></li>
 </ul>
