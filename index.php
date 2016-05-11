@@ -10,4 +10,5 @@
 	<li>Example Pitch: <a href="arandompitch.php">Here</a></li>
 <br>
 	<li>NEW: Leave information: <a href="leaveinfo.php">Here</a></li>
+	<li>NEW: HOMEPAGE/SEARCH: <a href="home.php">Here</a></li>
 </ul>
