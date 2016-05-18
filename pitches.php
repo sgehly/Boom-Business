@@ -4,6 +4,17 @@
 	<h1>Pitches</h1>
 	<p>Hello investor! This is a curated list of cool new projects that you may want to invest in. If you would like to contact the creator of a project, visit their site first and click the "contact" button!</p>
 	<hr>
+	<div style="float:left;">Category:
+	<select>
+		<option>Engineering</option>
+		<option>Mechanics</option>
+		<option>Construction</option>
+		<option>Finance</option>
+		<option>Accounting</option>
+		<option>Technology</option>
+		<option>Medical</option>
+	</select>
+	</div><br><br>
 	<?php for($i=0;$i<12;$i++){?>
 	<div class="col-md-3">
 		<div class="card">
