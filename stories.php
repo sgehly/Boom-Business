@@ -21,7 +21,7 @@
 	<?php for($i=0;$i<12;$i++){?>
 	<div class="col-md-3">
 		<div class="card">
-		  <img class="card-img-top" src="https://pbs.twimg.com/profile_images/465132577582370816/dQoNAWLr_400x400.jpeg" alt="Card image cap" style="width:90%;padding-top:10px;">
+		  <img class="card-img-top" src="http://www.impactforchildren.com/wp-content/uploads/2012/12/shutterstock_95571682.jpg" alt="Card image cap" style="width:90%;padding-top:10px;">
 		  <div class="card-block">
 		    <h4 class="card-title">How I Became a Billionaire at 10</h4>
 		    <span class="label label-primary" style="border:1px solid lightgray;border-radius:4px;padding:5px;margin:0;">By Lorem Ipsum</span><br><br>

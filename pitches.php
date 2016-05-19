@@ -18,7 +18,7 @@
 	<?php for($i=0;$i<12;$i++){?>
 	<div class="col-md-3">
 		<div class="card">
-		  <img class="card-img-top" src="https://pbs.twimg.com/profile_images/616895706150797312/ol4PeiHz.png" alt="Card image cap" style="width:90%;padding-top:5px;">
+		  <img class="card-img-top" src="http://www.goodworklabs.com/wp-content/uploads/2016/05/IoT.jpg" alt="Card image cap" style="width:90%;padding-top:5px;">
 		  <div class="card-block">
 		    <h4 class="card-title">My Cool Project!</h4>
 		    <p class="card-text">It's totally worth investing in, pinky promise.</p>
