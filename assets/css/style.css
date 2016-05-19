@@ -6,6 +6,7 @@ a:hover{
 }
 body{
 	background:url(../img/bbbg.jpg) no-repeat;
+	background-attachment:fixed;
 	background-size:cover;
 	display:flex;
 	flex-flow:column;
