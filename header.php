@@ -7,8 +7,8 @@
 		<script src="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js"></script>
 	</head>
 	<body>
-		<nav class="navbar navbar-fixed-top navbar-dark">
-			<img src="assets/img/boombiz.png" class="logo"> <span class="heavy">Boom Business</span>
+		<nav class="navbar navbar-dark newNav">
+			<img src="assets/img/boombiz.png" class="logo">
 		  	<div class="nav navbar-nav">
 		  		<a class="navbtn" href="./resources.php">Resources</a>
 		  		<a class="navbtn" href="./pitches.php">Pitches</a>

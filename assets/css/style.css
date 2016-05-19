@@ -12,18 +12,33 @@ body{
 }
 .navbtn{
 	font-family: 'Roboto', sans-serif;
-	font-size:16px;
-	font-weight:300;
-	color:black !important;
+	font-size:20px;
+	font-weight:100;
+	color:white !important;
 	width:150px;
 	text-align:center;
 	transition:.25s all;
-	border-bottom:2px solid transparent;
+	border-bottom:1px solid transparent;
 }
 .navbtn:hover{
-	border-bottom:2px solid lightgray;
+	border-bottom:1px solid lightgray;
 	transition:.25s all;
 	cursor:pointer;
+}
+.nav > .btn-success{
+	background:transparent;
+	color:#5cb85c;
+	border:1px solid #5cb85c;
+	transition:.25s all;
+		font-family: 'Roboto', sans-serif !important;
+	    font-size: 20px;
+	    font-weight: 100 !important;
+	margin-left:20px;
+}
+.nav > .btn-success:hover{
+	background:#5cb85c;
+	color:;
+	transition:.25s all;
 }
 .navbar-nav{
 	float:right;
@@ -36,11 +51,12 @@ body{
 }
 .navbar{
 	display:flex;
+	margin-top:10px;
 	align-items:center;
-	background:white;
+	background:transparent;
 	height:12vh;
 	padding-left:20px;
-	border-bottom:1px solid black;
+	border-bottom:1px solid transparent;
 }
 .navbtn:not(:last-child){
 	margin-right: 10px;
@@ -83,7 +99,7 @@ body{
 }
 .bodyContent{
 	flex:1;
-	margin-top:14vh;
+	margin-top:3vh;
 	height:88vh;
 }
 .niceta{
